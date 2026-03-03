@@ -121,12 +121,6 @@ Register for free at [dhsprogram.com](https://dhsprogram.com) and request the Uz
 
 Place them in the `data/` directory.
 
-Alternatively, use the pre-processed feature matrix already in the repo:
-```python
-import pandas as pd
-df = pd.read_csv('uzbekistan_1996_processed.csv')
-```
-
 ### 4. Run the notebook
 
 ```bash
