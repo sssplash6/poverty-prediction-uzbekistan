@@ -63,7 +63,7 @@ Evaluated on a held-out test set of 741 households (20%):
 
 The DHS Wealth Index (`wlthind5`) assigns each household to one of five quintiles. Households in the **lowest** or **second quintile** are labeled **poor (1)**; all others are labeled **not poor (0)**. This gives a poverty rate of 29.17%, consistent with Uzbekistan's economic conditions in 1996.
 
-> ⚠️ The raw DHS data files are not included in this repository due to DHS Program terms of use. Access requires free registration at [dhsprogram.com](https://dhsprogram.com). The processed feature matrix (`uzbekistan_1996_processed.csv`) is included for reproducibility.
+> ⚠️ The raw DHS data files are not included in this repository due to DHS Program terms of use. Access requires free registration at [dhsprogram.com](https://dhsprogram.com). The processed feature matrix cannot be shared due to DHS Program terms of use. Please follow the reproduction steps above to generate it from the raw data.
 
 ---
 
